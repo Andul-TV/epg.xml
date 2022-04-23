@@ -1,0 +1,16 @@
+<tv>
+<channel id="useesport">
+<display-name>Useesport</display-name>
+<icon src=""/>
+<url>https://useetv.com</url>
+
+__
+<programme start="20220422203000 +0000" stop="20220422204800 +0000" channel="useesport">
+<title lang="id">Sport Arena</title>
+</programme>
+<programme start="20220422204800 +0000" stop="20220422208400 +0000" channel="useesport">
+<title lang="id">Close Up</title>
+</programme>
+<programme start="20220422208400 +0000" stop="20220422215600 +0000" channel="useesport">
+<title lang="id">TAYANGAN ULANG LIGA 1 2022</title>
+</programme>
